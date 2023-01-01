@@ -1,0 +1,6 @@
+name: AIChatBot
+version: '1.0-SNAPSHOT'
+main: com.torben.ai.Main
+api-version: 1.16
+commands:
+  talk:

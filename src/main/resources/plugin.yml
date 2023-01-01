@@ -1,0 +1,6 @@
+name: AIChatBot
+version: '${project.version}'
+main: com.torben.ai.Main
+api-version: 1.16
+commands:
+  talk:
